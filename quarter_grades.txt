@@ -1,3 +1,2 @@
-Quarter 1 = 85
-Quarter 2 = 92
-Quarter 3 = 83
+Quarter 1 Quarter 2 Final Exam
+84        92        86
