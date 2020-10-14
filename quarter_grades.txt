@@ -1,3 +1,3 @@
-85
-92
-83
+Quarter 1 = 85
+Quarter 2 = 92
+Quarter 3 = 83
